@@ -1,7 +1,7 @@
 # Requirements Quality Theory Tool
 
 [![GitHub](https://img.shields.io/github/license/JulianFrattini/rqt-tool)](./LICENSE)
-[![DOI](https://zenodo.org/badge/456568427.svg)](https://zenodo.org/badge/latestdoi/456568427)
+[![DOI](https://zenodo.org/badge/668621596.svg)](https://zenodo.org/badge/latestdoi/668621596)
 
 This repository contains a tool operationalizing the Requirements Quality Theory proposed by Frattini et al. [1]. It aims to coordinate a community effort in implementing and maintaining this tool.
 
